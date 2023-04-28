@@ -35,6 +35,8 @@
 15. The difference between the `==` and `===` operators is that the `==` operator coerces the values to the same type and then compares the values. The `===` operator does not coerce the values to the same type and compares the values.
 
 16. `part2-question16.js`
-17. 
+17. return `newArr: 2,4,6`; `modifyArray` takes in an array and a callback function. The callback function `doSomething` is called on each element of the array and the result is stored in `newArr`. `newArr` is returned. 
+18. `part2-question18.js`
+19. print `1,4,3,2`
 
 
